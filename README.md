@@ -58,11 +58,7 @@ Senior Full Stack and GIS Developer with deep expertise in **Node.js**, **Postgr
 ### Council of Governors (CoG) — GIS Monitoring Dashboard
 **2025 – 2026** · National project monitoring across 47 counties
 
-- CoG, county, and public-facing dashboards for nationwide project tracking
-- Scalable REST APIs over millions of records with automated reporting pipelines
-- RBAC with multi-level permissions for directors and managers
-- QGIS-driven data cleaning, validation, and integrity workflows
-- AI chatbot (Google Gemini) for natural-language querying and automated insights
+This project developed a comprehensive GIS-enabled platform for the Council of Governors to help counties report on their sectoral performance, enabling both county governments and the CoG to store, manage, and visualize spatial and non-spatial data in a single, unified platform. Used by county officials, the CoG secretariat, and the public, the dashboard provided interactive visualization tools for performance tracking, data sharing, and informed decision-making. The platform also featured a mobile data collection application that empowered county teams and the CoG to capture any type of spatial or non-spatial data in real time, with the public gaining access to critical government data through a dedicated public data portal. The real-world impact included enhanced transparency, improved sectoral performance reporting, and more efficient data-driven governance across all 47 counties.
 
 `React` `Node.js` `PostgreSQL/PostGIS` `GeoServer` `Redis` `Docker`
 
@@ -77,11 +73,7 @@ Senior Full Stack and GIS Developer with deep expertise in **Node.js**, **Postgr
 ### CCID Cameroon — Sabi-Me SRHR Mobile App
 **2026** · Privacy-first youth health platform (ages 15–30)
 
-- Led a distributed team of 4 developers (Kenya, Europe, India)
-- Flutter Android app with offline-first SQLite and encrypted local storage
-- Node.js/Express backend, PostgreSQL, Sequelize ORM, anonymous auth
-- Privacy features: biometric lock, quick exit, disguise mode
-- AWS (EC2 & S3) deployment with Docker
+The Sabi-Me mobile app was designed as a comprehensive safety, education, and awareness companion for adolescents and young adults (ages 15–30) in Cameroon, addressing the critical gap in accessible, stigma-free Sexual and Reproductive Health and Rights (SRHR) information and relationship education. Used directly by young people, the app empowered users to understand themselves and their sexual relationship profiles, establish healthy boundaries in relationships, map and digitize their relationship interests, and build a safe circle for cultivating healthy relationships. The platform provided educational content on SRHR, privacy-first tools including biometric lock, quick exit, and disguise mode, and offline access to ensure safety and discretion in sensitive social environments. The real-world impact was significant—reducing barriers to critical health and relationship education, empowering users to make informed decisions, and directly supporting Cameroon's national digital health strategy by providing a discreet, accessible pathway to essential information and support.
 
 `Flutter` `Node.js` `PostgreSQL` `AWS` `Docker`
 
@@ -96,11 +88,7 @@ Senior Full Stack and GIS Developer with deep expertise in **Node.js**, **Postgr
 ### Land Information Management Systems (LIMS)
 **2024 – 2026** · Homabay, Vihiga & Kitui counties
 
-- Land parcel registration, updates, and public access APIs
-- PostGIS schemas optimized for high-volume spatial queries
-- RBAC for administrators, land officers, and public users
-- Integration with existing county government platforms
-- QGIS data validation and parcel integrity workflows
+This project built a digital land information system for three county governments to solve the problem of inefficient, manual land record management that led to disputes and opaque transactions. Used by government land officers, administrators, and the public, the system provided a secure platform for parcel registration, updates, and access. Its real-world impact included increased transparency and efficiency in land governance, reduced land-related conflicts, and improved revenue collection from land transactions across the three counties.
 
 `Node.js` `PostgreSQL/PostGIS` `GeoServer` `Docker`
 
@@ -115,10 +103,7 @@ Senior Full Stack and GIS Developer with deep expertise in **Node.js**, **Postgr
 ### Electronic Development Application Management System (EDAMS)
 **2024 – 2026** · Vihiga County
 
-- Digital development permit application and approval workflows
-- Public portal and admin dashboards for planning departments
-- REST APIs integrating spatial and application data
-- Mobile field data collection for planning officers
+This project delivered a digital development application management system for Vihiga County to replace slow, paper-based building and development permit processes. Used by planning officers, county administrators, and the public, the system enabled online application submission, review, approval workflows, and transparent tracking of development permits. Its real-world impact included faster permit processing, improved compliance monitoring, and better service delivery for citizens and developers engaging with county planning departments.
 
 `Node.js` `React` `Flutter` `PostgreSQL/PostGIS` `Docker`
 
@@ -133,11 +118,7 @@ Senior Full Stack and GIS Developer with deep expertise in **Node.js**, **Postgr
 ### County Agricultural Management Platforms
 **2023 – 2024** · 8 counties · 20,000+ farmers
 
-- Farmer onboarding, field data collection, analytics, and county reporting
-- REST APIs consumed by Flutter mobile apps and React web dashboards
-- Redis caching for high-traffic datasets and session management
-- Automated reporting pipelines for county-level decision making
-- QGIS validation of farmer geospatial and agricultural records
+This initiative created a comprehensive digital platform for agricultural management across eight counties, solving the problem of limited data and tools for supporting smallholder farmers. Used by farmers, agricultural officers, and county decision-makers, the system facilitated farmer onboarding, data collection, and reporting. The real-world impact was significant, serving over 20,000 smallholder farmers, improving access to agricultural information and inputs, and enabling data-driven decision-making for county-level agricultural planning and policy.
 
 `Node.js` `React` `Flutter` `PostgreSQL/PostGIS` `Redis`
 
@@ -152,11 +133,7 @@ Senior Full Stack and GIS Developer with deep expertise in **Node.js**, **Postgr
 ### USAID Western Kenya Water Project — MEL MIS
 **2024** · Monitoring, evaluation & learning
 
-- Data-intensive Node.js backend integrating spatial and operational datasets
-- REST APIs feeding unified analytics and reporting services
-- Query optimization for large datasets and dashboard performance
-- Secure RBAC for project teams and stakeholders
-- QGIS validation of water resource and monitoring data
+This project built a robust Monitoring, Evaluation, and Learning (MEL) Management Information System for a USAID-funded water project, solving the problem of siloed, unintegrated data that hampered effective project oversight and reporting. Used by project teams, USAID stakeholders, and partners, the system integrated spatial and operational data into a unified platform for reporting and analytics, enabling the team to track their key performance indicators in their quest to ensure access to safe water for citizens across eight counties in the Western Kenya region. The real-world impact was enhanced project efficiency and accountability, providing accurate, timely data for performance tracking and adaptive management of critical water resource initiatives.
 
 `Node.js` `PostgreSQL` `React` `PostGIS`
 
@@ -168,14 +145,10 @@ Senior Full Stack and GIS Developer with deep expertise in **Node.js**, **Postgr
 
 ---
 
-### Care Kenya — Input Demand System (Farmers & Agro-dealers)
+### Input Demand System for Farmers & Agro-dealers (Care Kenya NGO)
 **2025** · Multi-county marketplace (Migori, Kakamega, Nakuru, Kiambu, Nairobi)
 
-- Full-stack MIS and marketplace: listings, orders, transactions, analytics
-- PostgreSQL models for operational and financial reporting
-- Redis caching and session management
-- React dashboards for program monitoring
-- QGIS validation of farmer and agro-dealer geospatial data
+This project developed a full-stack management and marketplace system to connect farmers and agro-dealers across multiple counties, solving the problem of inefficient agricultural input supply chains and limited market access for farmers. Used by smallholder farmers and agro-dealers, the platform facilitated product listings, orders, and transactions. The real-world impact was improved market linkages and income opportunities for farmers, as well as more streamlined operations for agro-dealers in the program regions.
 
 `Node.js` `React` `PostgreSQL` `Redis`
 
@@ -187,13 +160,10 @@ Senior Full Stack and GIS Developer with deep expertise in **Node.js**, **Postgr
 
 ---
 
-### REREC — Utility Networks Asset Management (UNAMS)
+### REREC — Utility Networks Asset Management System (UNAMS)
 **2025 – 2026** · National utility infrastructure
 
-- Full-stack asset lifecycle management, maintenance workflows, and reporting
-- High-performance APIs for asset tracking and operational dashboards
-- Redis caching for dashboard and query optimization
-- QGIS validation of geospatial asset and network data
+This project engineered a comprehensive asset management system for the Rural Electrification and Renewable Energy Corporation's national utility infrastructure, solving the problem of inadequate, decentralized asset tracking that hindered operational efficiency. Used by REREC operational teams, the system managed the lifecycle of utility assets, including maintenance workflows and reporting. The real-world impact was improved reliability and efficiency of national utility network management, contributing to more stable electricity services and better resource planning.
 
 `Node.js` `React` `PostgreSQL/PostGIS` `Redis` `Docker`
 
@@ -205,13 +175,10 @@ Senior Full Stack and GIS Developer with deep expertise in **Node.js**, **Postgr
 
 ---
 
-### Ambulex Solutions — Emergency Response Platform
+### Emergency Response Platform — Ambulex Solutions
 **2023 – 2025** · Real-time incident coordination
 
-- High-availability REST APIs for time-critical emergency reporting
-- Asynchronous workflows for incident updates and response status
-- Optimized for concurrent requests during emergency peaks
-- Containerized deployment for reliability and fast recovery
+This project built a high-availability platform for real-time emergency reporting and response coordination, solving the problem of delayed and uncoordinated emergency response. Used by emergency responders and the public, the system streamlined incident reporting, status updates, and coordination. The real-world impact was faster response times and more effective emergency management, potentially saving lives and improving community safety in critical situations.
 
 `Node.js` `PostgreSQL` `Docker` `Redis`
 
@@ -223,14 +190,10 @@ Senior Full Stack and GIS Developer with deep expertise in **Node.js**, **Postgr
 
 ---
 
-### Water Service Providers — Utility Management Systems
+### Utility Management Systems — Water Service Providers
 **2023 – 2026** · Asset tracking, incidents & maintenance
 
-- Real-time field-team updates and operational dashboards
-- Redis caching under high query load
-- Docker-based scalable backend services
-- AI chatbot (Google Gemini) for intelligent querying and report generation
-- QGIS validation of customer and asset geospatial data
+This project developed digital systems for asset tracking, incident management, and maintenance workflows for water service providers, solving the problem of inefficient manual management of utility infrastructure. Used by utility operators and field teams, the systems provided real-time data on infrastructure status and workflows. The real-world impact was improved operational efficiency, faster issue resolution, and more reliable water services for customers, with the system incorporating an AI-powered chatbot for advanced analytics.
 
 `Node.js` `React` `PostgreSQL/PostGIS` `Redis` `Docker`
 
@@ -245,10 +208,7 @@ Senior Full Stack and GIS Developer with deep expertise in **Node.js**, **Postgr
 ### TrustHold Escrow Platform
 **2025 – 2026** · Secure escrow for goods and services
 
-- Full escrow lifecycle: approvals, releases, dispute workflows
-- PostgreSQL schemas built for integrity, traceability, and audit readiness
-- Redis for sessions, caching, and rate limiting
-- Mobile app plus admin and user dashboards
+This project designed and implemented a full-stack escrow platform to facilitate secure buying, selling, and brokering of goods and services, solving the problem of trust and financial security in online and brokered transactions. Used by buyers, sellers, and brokers, the platform managed complex escrow lifecycles, approvals, and disputes. The real-world impact was increased confidence and security in commercial transactions, enabling a trusted marketplace and facilitating smoother business operations.
 
 `Node.js` `Flutter` `PostgreSQL` `Redis` `Docker`
 
