@@ -4,7 +4,9 @@
 
 ### Senior Full Stack & GIS Developer | Geospatial Platforms Specialist
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-smsolutions.co.ke-0A66C2?style=for-the-badge)](https://smsolutions.co.ke)
+<a href="https://smsolutions.co.ke" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/MY_START_UP-smsolutions.co.ke-0A66C2?style=for-the-badge" alt="MY START UP" />
+</a>
 [![Email](https://img.shields.io/badge/Email-strongmuhoti@gmail.com-EA4335?style=for-the-badge)](mailto:strongmuhoti@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-%2B254%20707809592-25D366?style=for-the-badge)](tel:+254707809592)
 [![LinkedIn](https://img.shields.io/badge/GitHub-Muhoti-181717?style=for-the-badge)](https://github.com/Muhoti)
@@ -220,7 +222,7 @@ Senior Full Stack and GIS Developer with deep expertise in **Node.js**, **Postgr
 |---|---|
 | **Email** | [strongmuhoti@gmail.com](mailto:strongmuhoti@gmail.com) |
 | **Phone** | +254 707 809 592 |
-| **Website** | [smsolutions.co.ke](https://smsolutions.co.ke) |
+| **MY START UP** | <a href="https://smsolutions.co.ke" target="_blank" rel="noopener noreferrer">smsolutions.co.ke</a> |
 | **GitHub** | [@Muhoti](https://github.com/Muhoti) |
 
 ---
