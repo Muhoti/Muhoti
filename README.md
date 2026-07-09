@@ -179,7 +179,11 @@ Senior Full Stack and GIS Developer with deep expertise in **Node.js**, **Postgr
 
 `Node.js` `React` `PostgreSQL` `Redis`
 
-**Repositories** *(access on request — contact for links)*
+**Repositories** *(access on request)*
+
+| Agro-dealer | API | Dashboard | Farmers | Agrodealers Mobile |
+|-------------|-----|-----------|---------|--------------------|
+| <a href="https://github.com/Muhoti/inputdemand_agrodealer" target="_blank" rel="noopener noreferrer">inputdemand_agrodealer</a> | <a href="https://github.com/Muhoti/inputdemand_api" target="_blank" rel="noopener noreferrer">inputdemand_api</a> | <a href="https://github.com/Muhoti/inputdemand_dashboard" target="_blank" rel="noopener noreferrer">inputdemand_dashboard</a> | <a href="https://github.com/Muhoti/inputdemand_farmers" target="_blank" rel="noopener noreferrer">inputdemand_farmers</a> | <a href="https://github.com/Muhoti/InputDemand_Agrodealers" target="_blank" rel="noopener noreferrer">InputDemand_Agrodealers</a> |
 
 ---
 
@@ -193,7 +197,11 @@ Senior Full Stack and GIS Developer with deep expertise in **Node.js**, **Postgr
 
 `Node.js` `React` `PostgreSQL/PostGIS` `Redis` `Docker`
 
-**Repositories** *(access on request — contact for links)*
+**Repositories** *(access on request)*
+
+| Dashboard | API | Mobile |
+|-----------|-----|--------|
+| <a href="https://github.com/Muhoti/rerec_dashboard" target="_blank" rel="noopener noreferrer">rerec_dashboard</a> | <a href="https://github.com/Muhoti/rerec_api" target="_blank" rel="noopener noreferrer">rerec_api</a> | <a href="https://github.com/Muhoti/rerec_mobile" target="_blank" rel="noopener noreferrer">rerec_mobile</a> |
 
 ---
 
@@ -207,7 +215,11 @@ Senior Full Stack and GIS Developer with deep expertise in **Node.js**, **Postgr
 
 `Node.js` `PostgreSQL` `Docker` `Redis`
 
-**Repositories** *(access on request — contact for links)*
+**Repositories** *(access on request)*
+
+| Public Users | Response Team | API | Admin |
+|--------------|---------------|-----|-------|
+| <a href="https://github.com/Muhoti/ers_public_users" target="_blank" rel="noopener noreferrer">ers_public_users</a> | <a href="https://github.com/Muhoti/ers_response_team" target="_blank" rel="noopener noreferrer">ers_response_team</a> | <a href="https://github.com/Muhoti/ers_api" target="_blank" rel="noopener noreferrer">ers_api</a> | <a href="https://github.com/Muhoti/ers_admin" target="_blank" rel="noopener noreferrer">ers_admin</a> |
 
 ---
 
@@ -222,7 +234,11 @@ Senior Full Stack and GIS Developer with deep expertise in **Node.js**, **Postgr
 
 `Node.js` `React` `PostgreSQL/PostGIS` `Redis` `Docker`
 
-**Repositories** *(access on request — contact for links)*
+**Repositories** *(access on request)*
+
+| Admin | API | Mobile |
+|-------|-----|--------|
+| <a href="https://github.com/Muhoti/utilitymanager_admin" target="_blank" rel="noopener noreferrer">utilitymanager_admin</a> | <a href="https://github.com/Muhoti/utilitymanager_api" target="_blank" rel="noopener noreferrer">utilitymanager_api</a> | <a href="https://github.com/Muhoti/utilitymanager_mobile" target="_blank" rel="noopener noreferrer">utilitymanager_mobile</a> |
 
 ---
 
@@ -236,7 +252,11 @@ Senior Full Stack and GIS Developer with deep expertise in **Node.js**, **Postgr
 
 `Node.js` `Flutter` `PostgreSQL` `Redis` `Docker`
 
-**Repositories** *(access on request — contact for links)*
+**Repositories** *(access on request)*
+
+| Admin | API | Website | Users | Mobile |
+|-------|-----|---------|-------|--------|
+| <a href="https://github.com/Muhoti/ESCROW_ADMIN" target="_blank" rel="noopener noreferrer">ESCROW_ADMIN</a> | <a href="https://github.com/Muhoti/ESCROW_API" target="_blank" rel="noopener noreferrer">ESCROW_API</a> | <a href="https://github.com/Muhoti/ESCROW_WEBSITE" target="_blank" rel="noopener noreferrer">ESCROW_WEBSITE</a> | <a href="https://github.com/Muhoti/ESCROW_USERS" target="_blank" rel="noopener noreferrer">ESCROW_USERS</a> | <a href="https://github.com/Muhoti/ESCROW_MOBILE" target="_blank" rel="noopener noreferrer">ESCROW_MOBILE</a> |
 
 ---
 
@@ -252,12 +272,19 @@ Senior Full Stack and GIS Developer with deep expertise in **Node.js**, **Postgr
 
 ---
 
+## Additional Projects
+
+Beyond the featured projects above, I have worked on many more systems across geospatial platforms, mobile applications, dashboards, operational MIS, utilities, and private-sector software products. My GitHub includes **120+ repositories**, and additional client work can be discussed or shared during interviews where appropriate.
+
+---
+
 ## Core Strengths
 
 - **Full-Stack + GIS** — Rare combination of software engineering and geospatial expertise (PostGIS, QGIS, OGC standards)
-- **Agricultural & environmental monitoring** — Farmer systems, crop monitoring (Open Data Cube), pasture/rangeland workflows
-- **Decision-support dashboards** — Filters, time-series charts, hotspot analysis, RBAC
+- **Agricultural, climate & environmental monitoring** — Farmer systems, crop monitoring (Open Data Cube), pasture/rangeland workflows, and climate resilience platforms
+- **Decision-support dashboards & MELMIS** — Filters, time-series charts, hotspot analysis, Monitoring, Evaluation and Learning Management Information Systems (MELMIS), and RBAC
 - **Data pipelines & APIs** — Large spatiotemporal datasets, REST design, security best practices
+- **Data collection mobile apps & CRM systems** — Field data capture apps, cross-platform mobile workflows, customer and stakeholder management systems
 - **Technical leadership** — Distributed teams, code reviews, agile delivery, documentation & training
 
 ---
@@ -277,6 +304,9 @@ Senior Full Stack and GIS Developer with deep expertise in **Node.js**, **Postgr
 
 *Open to senior full-stack, GIS platform, and geospatial engineering roles — remote or on-site.*
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muhoti&show_icons=true&theme=tokyonight&hide_border=true)
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Muhoti&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+  alt="Strong Muhoti GitHub stats"
+/>
 
 </div>
