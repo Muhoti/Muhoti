@@ -4,12 +4,20 @@
 
 ### Senior Full Stack & GIS Developer | Geospatial Platforms Specialist
 
-<a href="https://smsolutions.co.ke" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/MY_START_UP-smsolutions.co.ke-0A66C2?style=for-the-badge" alt="MY START UP" />
-</a>
-[![Email](https://img.shields.io/badge/Email-strongmuhoti@gmail.com-EA4335?style=for-the-badge)](mailto:strongmuhoti@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B254%20707809592-25D366?style=for-the-badge)](tel:+254707809592)
-[![LinkedIn](https://img.shields.io/badge/GitHub-Muhoti-181717?style=for-the-badge)](https://github.com/Muhoti)
+<p>
+  <a href="https://smsolutions.co.ke" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/MY_START_UP-smsolutions.co.ke-0A66C2?style=for-the-badge" alt="MY START UP" />
+  </a>
+  <a href="mailto:strongmuhoti@gmail.com">
+    <img src="https://img.shields.io/badge/Email-strongmuhoti@gmail.com-EA4335?style=for-the-badge" alt="Email" />
+  </a>
+  <a href="tel:+254707809592">
+    <img src="https://img.shields.io/badge/Phone-%2B254%20707809592-25D366?style=for-the-badge" alt="Phone" />
+  </a>
+  <a href="https://github.com/Muhoti" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-Muhoti-181717?style=for-the-badge" alt="GitHub" />
+  </a>
+</p>
 
 *5+ years building enterprise geospatial platforms, MIS dashboards, and production mobile apps for government, NGOs, and utilities across Kenya and beyond.*
 
@@ -43,7 +51,9 @@ Senior Full Stack and GIS Developer with deep expertise in **Node.js**, **Postgr
 
 ## Featured Projects
 
-> Production systems delivered for government institutions, utilities, NGOs, and private-sector clients. Repositories below are a **curated public subset** of 120+ projects across my GitHub and client organizations.
+> **Repository access:** Most production repositories are private. Links below point to the **actual project repositories** — **access is granted on request** for interviewers and collaborators. Contact **[strongmuhoti@gmail.com](mailto:strongmuhoti@gmail.com)**.
+
+---
 
 ### Council of Governors (CoG) — GIS Monitoring Dashboard
 **2025 – 2026** · National project monitoring across 47 counties
@@ -55,6 +65,12 @@ Senior Full Stack and GIS Developer with deep expertise in **Node.js**, **Postgr
 - AI chatbot (Google Gemini) for natural-language querying and automated insights
 
 `React` `Node.js` `PostgreSQL/PostGIS` `GeoServer` `Redis` `Docker`
+
+**Repositories** *(access on request)*
+
+| Admin | API | County | Public | Mobile |
+|-------|-----|--------|--------|--------|
+| <a href="https://github.com/Muhoti/cog_admin" target="_blank" rel="noopener noreferrer">cog_admin</a> | <a href="https://github.com/Muhoti/cog_api" target="_blank" rel="noopener noreferrer">cog_api</a> | <a href="https://github.com/Muhoti/cog_county" target="_blank" rel="noopener noreferrer">cog_county</a> | <a href="https://github.com/Muhoti/cog_public" target="_blank" rel="noopener noreferrer">cog_public</a> | <a href="https://github.com/Muhoti/cog_mobile" target="_blank" rel="noopener noreferrer">cog_mobile</a> |
 
 ---
 
@@ -69,6 +85,12 @@ Senior Full Stack and GIS Developer with deep expertise in **Node.js**, **Postgr
 
 `Flutter` `Node.js` `PostgreSQL` `AWS` `Docker`
 
+**Repositories** *(access on request)*
+
+| API | Mobile |
+|-----|--------|
+| <a href="https://github.com/Muhoti/ccid_api" target="_blank" rel="noopener noreferrer">ccid_api</a> | <a href="https://github.com/Muhoti/ccid-mobile-app" target="_blank" rel="noopener noreferrer">ccid-mobile-app</a> |
+
 ---
 
 ### Land Information Management Systems (LIMS)
@@ -82,7 +104,29 @@ Senior Full Stack and GIS Developer with deep expertise in **Node.js**, **Postgr
 
 `Node.js` `PostgreSQL/PostGIS` `GeoServer` `Docker`
 
-🔗 Related public work: [Dat-Vihiga-County](https://github.com/Muhoti/Dat-Vihiga-County) · [Dat-Meru-County](https://github.com/Muhoti/Dat-Meru-County) · [Dat_Kisii-County](https://github.com/Muhoti/Dat_Kisii-County)
+**Repositories — Vihiga LIMS** *(access on request)*
+
+| Admin | API | Public | Mobile |
+|-------|-----|--------|--------|
+| <a href="https://github.com/Muhoti/vihiga_lims_admin" target="_blank" rel="noopener noreferrer">vihiga_lims_admin</a> | <a href="https://github.com/Muhoti/vihiga_lims_api" target="_blank" rel="noopener noreferrer">vihiga_lims_api</a> | <a href="https://github.com/Muhoti/vihiga_lims_public" target="_blank" rel="noopener noreferrer">vihiga_lims_public</a> | <a href="https://github.com/Muhoti/vihiga_lims_mobile" target="_blank" rel="noopener noreferrer">vihiga_lims_mobile</a> |
+
+---
+
+### Electronic Development Application Management System (EDAMS)
+**2024 – 2026** · Vihiga County
+
+- Digital development permit application and approval workflows
+- Public portal and admin dashboards for planning departments
+- REST APIs integrating spatial and application data
+- Mobile field data collection for planning officers
+
+`Node.js` `React` `Flutter` `PostgreSQL/PostGIS` `Docker`
+
+**Repositories — Vihiga EDAMS** *(access on request)*
+
+| Admin | API | Public | Mobile |
+|-------|-----|--------|--------|
+| <a href="https://github.com/Muhoti/vihiga_edams_admin" target="_blank" rel="noopener noreferrer">vihiga_edams_admin</a> | <a href="https://github.com/Muhoti/vihiga_edams_api" target="_blank" rel="noopener noreferrer">vihiga_edams_api</a> | <a href="https://github.com/Muhoti/vihiga_edams_public" target="_blank" rel="noopener noreferrer">vihiga_edams_public</a> | <a href="https://github.com/Muhoti/vihiga_edams_mobile" target="_blank" rel="noopener noreferrer">vihiga_edams_mobile</a> |
 
 ---
 
@@ -97,7 +141,11 @@ Senior Full Stack and GIS Developer with deep expertise in **Node.js**, **Postgr
 
 `Node.js` `React` `Flutter` `PostgreSQL/PostGIS` `Redis`
 
-🔗 Related public work: [meru_amis](https://github.com/Muhoti/meru_amis) · [meru_amis_api](https://github.com/Muhoti/meru_amis_api) · [DAT_MobileApp-KirinyagaCounty](https://github.com/Muhoti/DAT_MobileApp-KirinyagaCounty) · [Dat_MobileApp-KiambuCounty](https://github.com/Muhoti/Dat_MobileApp-KiambuCounty)
+**Repositories — Meru County** *(access on request)*
+
+| Web (AMIS) | API | Mobile |
+|------------|-----|--------|
+| <a href="https://github.com/Muhoti/meru_amis" target="_blank" rel="noopener noreferrer">meru_amis</a> | <a href="https://github.com/Muhoti/meru_amis_api" target="_blank" rel="noopener noreferrer">meru_amis_api</a> | <a href="https://github.com/Muhoti/Dat_MobileApp-MeruCounty" target="_blank" rel="noopener noreferrer">Dat_MobileApp-MeruCounty</a> |
 
 ---
 
@@ -112,6 +160,12 @@ Senior Full Stack and GIS Developer with deep expertise in **Node.js**, **Postgr
 
 `Node.js` `PostgreSQL` `React` `PostGIS`
 
+**Repositories** *(access on request)*
+
+| Admin | API | KMI | Mobile |
+|-------|-----|-----|--------|
+| <a href="https://github.com/Muhoti/wkwp_admin" target="_blank" rel="noopener noreferrer">wkwp_admin</a> | <a href="https://github.com/Muhoti/WKWP_API" target="_blank" rel="noopener noreferrer">WKWP_API</a> | <a href="https://github.com/Muhoti/wkwp_kmi" target="_blank" rel="noopener noreferrer">wkwp_kmi</a> | <a href="https://github.com/Muhoti/wkwp_mobile" target="_blank" rel="noopener noreferrer">wkwp_mobile</a> |
+
 ---
 
 ### Care Kenya — Input Demand System (Farmers & Agro-dealers)
@@ -125,6 +179,8 @@ Senior Full Stack and GIS Developer with deep expertise in **Node.js**, **Postgr
 
 `Node.js` `React` `PostgreSQL` `Redis`
 
+**Repositories** *(access on request — contact for links)*
+
 ---
 
 ### REREC — Utility Networks Asset Management (UNAMS)
@@ -136,6 +192,8 @@ Senior Full Stack and GIS Developer with deep expertise in **Node.js**, **Postgr
 - QGIS validation of geospatial asset and network data
 
 `Node.js` `React` `PostgreSQL/PostGIS` `Redis` `Docker`
+
+**Repositories** *(access on request — contact for links)*
 
 ---
 
@@ -149,7 +207,7 @@ Senior Full Stack and GIS Developer with deep expertise in **Node.js**, **Postgr
 
 `Node.js` `PostgreSQL` `Docker` `Redis`
 
-🔗 Related public work: [OSL-Incident-Reporter](https://github.com/Muhoti/OSL-Incident-Reporter)
+**Repositories** *(access on request — contact for links)*
 
 ---
 
@@ -164,7 +222,7 @@ Senior Full Stack and GIS Developer with deep expertise in **Node.js**, **Postgr
 
 `Node.js` `React` `PostgreSQL/PostGIS` `Redis` `Docker`
 
-🔗 Related public work: [OSL_UMCollect](https://github.com/Muhoti/OSL_UMCollect) · [smsolutions_api](https://github.com/Muhoti/smsolutions_api) · [smsolutions_admin](https://github.com/Muhoti/smsolutions_admin)
+**Repositories** *(access on request — contact for links)*
 
 ---
 
@@ -178,19 +236,7 @@ Senior Full Stack and GIS Developer with deep expertise in **Node.js**, **Postgr
 
 `Node.js` `Flutter` `PostgreSQL` `Redis` `Docker`
 
----
-
-## Additional Public Repositories
-
-| Repository | Stack | Focus |
-|------------|-------|--------|
-| [smsolutions_admin](https://github.com/Muhoti/smsolutions_admin) | React | Admin dashboards & MIS |
-| [smsolutions_api](https://github.com/Muhoti/smsolutions_api) | Node.js | REST API services |
-| [OSL_UMCollect](https://github.com/Muhoti/OSL_UMCollect) | Flutter | Field data collection |
-| [MutationSurveyAPI](https://github.com/Muhoti/MutationSurveyAPI) | Node.js | Survey backend |
-| [MutationSurveyMobile](https://github.com/Muhoti/MutationSurveyMobile) | Flutter | Survey mobile client |
-
-*Many additional repositories are private, client-owned, or under organization accounts.*
+**Repositories** *(access on request — contact for links)*
 
 ---
 
@@ -223,7 +269,7 @@ Senior Full Stack and GIS Developer with deep expertise in **Node.js**, **Postgr
 | **Email** | [strongmuhoti@gmail.com](mailto:strongmuhoti@gmail.com) |
 | **Phone** | +254 707 809 592 |
 | **MY START UP** | <a href="https://smsolutions.co.ke" target="_blank" rel="noopener noreferrer">smsolutions.co.ke</a> |
-| **GitHub** | [@Muhoti](https://github.com/Muhoti) |
+| **GitHub** | <a href="https://github.com/Muhoti" target="_blank" rel="noopener noreferrer">@Muhoti</a> |
 
 ---
 
