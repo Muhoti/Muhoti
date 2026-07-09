@@ -45,7 +45,7 @@ Senior Full Stack and GIS Developer with deep expertise in **Node.js**, **Postgr
 
 **GIS & Spatial** `PostGIS` `QGIS` `OpenLayers` `Leaflet` `GeoServer` `GeoJSON` `Open Data Cube`
 
-**Data & DevOps** `PostgreSQL` `MongoDB` `Docker` `Linux` `Git` `CI/CD`
+**Data & DevOps** `PostgreSQL` `MySQL` `MongoDB` `AWS` `Docker` `Linux` `Git` `CI/CD` 
 
 ---
 
@@ -285,6 +285,7 @@ Beyond the featured projects above, I have worked on many more systems across ge
 - **Decision-support dashboards & MELMIS** — Filters, time-series charts, hotspot analysis, Monitoring, Evaluation and Learning Management Information Systems (MELMIS), and RBAC
 - **Data pipelines & APIs** — Large spatiotemporal datasets, REST design, security best practices
 - **Data collection mobile apps & CRM systems** — Field data capture apps, cross-platform mobile workflows, customer and stakeholder management systems
+- **Cloud & DevOps** — AWS, Docker, Linux server administration, CI/CD pipelines
 - **Technical leadership** — Distributed teams, code reviews, agile delivery, documentation & training
 
 ---
